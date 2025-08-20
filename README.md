@@ -1,9 +1,9 @@
-# [João Santino]     <img src="https://i.gifer.com/FdMO.gif" width="42px">
+# João Santino     <img src="https://i.gifer.com/FdMO.gif" width="42px">
 
 Eu sou <strong> João Santino</strong>, <strong>Tenho 23 anos, sou técnico em refrigeração e atualmente estudo ADS</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong> Análise e desenvolvimento de sistemas</strong> 
-- 💬 Pergunte-me sobre: <strong> Jogar bola, comer, dormir, viajar, sair com os amigos</strong>
+- 💬 Meus hobbies: <strong> Jogar bola, comer, dormir, viajar, sair com os amigos</strong>
 - 📣 Nós podemos falar em: <strong>PT-BR, ENG-USA</strong>
 
 <div align="center">
