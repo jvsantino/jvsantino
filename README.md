@@ -1,4 +1,4 @@
-# [João Santino] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://www.google.com/imgres?q=gif%20de%20futebol&imgurl=https%3A%2F%2Fi.gifer.com%2FFdMO.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Ffutebol&docid=-Vc7npBn5Be3uM&tbnid=hTC3M6GP9npk9M&vet=12ahUKEwjxhMb5jJiPAxW_LLkGHWAvN84QM3oECC0QAA..i&w=215&h=180&hcb=2&ved=2ahUKEwjxhMb5jJiPAxW_LLkGHWAvN84QM3oECC0QAA" width="30px">
+# [João Santino] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://https://i.gifer.com/FdMO.gif width="30px">
 
 Eu sou <strong> João Santino</strong>, <strong>Tenho 23 anos, sou técnico em refrigeração e atualmente estudo ADS</strong> 👨🏻‍💻 
 
