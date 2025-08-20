@@ -1,4 +1,4 @@
-# [João Santino] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://https://i.gifer.com/FdMO.gif width="30px">
+# [João Santino] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://i.gifer.com/FdMO.gif" width="30px">
 
 Eu sou <strong> João Santino</strong>, <strong>Tenho 23 anos, sou técnico em refrigeração e atualmente estudo ADS</strong> 👨🏻‍💻 
 
